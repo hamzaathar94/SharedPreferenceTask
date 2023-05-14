@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SharedPreferenceTask</string>
+    <string name="email">Email</string>
+    <string name="age">Age</string>
+    <string name="name">Name</string>
+    <string name="save">Save</string>
+    <string name="delete">Show</string>
+    <string name="sqlite">Sqlite</string>
+    <string name="sqlite_show">Sqlite show</string>
+</resources>
